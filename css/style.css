@@ -37,7 +37,7 @@ overflow: hidden;
     left: 0;
     width: 100%;
     height: 100%;
-    background:blanchedalmond url(./images/TrueDamage.jpg) no-repeat center center/cover;
+    background:blanchedalmond url(../images/TrueDamage.jpg) no-repeat center center/cover;
     z-index: -1;
 }
 .vedio-container vedio{
